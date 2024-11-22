@@ -1,0 +1,15 @@
+{
+    "name": "goofy_web_server",
+    "version": "1.0.0",
+    "description": "XDDDD",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "crypto": "^1.0.1",
+        "rate-limiter-flexible": "^5.0.4"
+    },
+    "author": "",
+    "license": "ISC"
+}
